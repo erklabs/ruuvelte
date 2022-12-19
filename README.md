@@ -1,2 +1,2 @@
 # ruuvelte
- My website I built with svelte.
+I used Svelte to create my website. This is my attempt to relearn web development from scratch and get used to making stuff from scratch again. Yes "scratch" isn't the best phrase for this, but I would like to test utilizing svelte instead of going with vanilla javascript and html/css.
